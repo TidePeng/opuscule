@@ -1,0 +1,2 @@
+# opuscule
+Small work collections
